@@ -43,6 +43,7 @@
 
 <!--social media-->
 <div align="center"> 
+  <h1>Connect with me <h1/>
   <a href="mailto:samaraparceroti@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/techsamsdev"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/SamaraParcero"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -53,6 +54,4 @@
 <br>
 
 
-
-----------------------------------------------------------------------
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
