@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p  align=”center”  style="text-indent:40px;"> I'm <b>Samara Parcero</b>, a software Engineering Student from Brasil who loves learn more and more about technology. I am currently studying Java and my mainly goal is to be a Java Full Stack devloper. Welcome to my Github and feel free to take a look in my repositories!</p>
+<p  align=”center”  style="text-indent:40px;"> I'm <b>Samara Parcero</b>, a software Engineering Student from Brasil who loves learn more and more about technology. I am currently working with Python e C# and my mainly goal is to be a Backend Developer. Welcome to my Github and feel free to take a look in my repositories!</p>
 
 
 <p align='center'>
