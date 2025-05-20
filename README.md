@@ -20,7 +20,7 @@
 
 <!--Github stats-->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamaraParcero&show_icons=true&count_private=true&hide_border=true&title_color=f0ebd8&icon_color=3e5c76&text_color=f0ebd8&bg_color=123456&hide=prs,issues,contribs" alt="Github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-samara.vercel.app/api?username=SamaraParcero&show_icons=true&count_private=true&hide_border=true&title_color=f0ebd8&icon_color=3e5c76&text_color=f0ebd8&bg_color=123456" alt="Github stats" />
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraParcero&layout=compact&langs_count=5&hide=css,batchfile,less,powershell,scss&hide_border=true&title_color=f0ebd8&text_color=f0ebd8&bg_color=123456" />
 </div>
 
