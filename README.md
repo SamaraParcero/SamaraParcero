@@ -52,7 +52,7 @@
  <a href="https://instagram.com/techsamsdev" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/SamaraParcero" target="_blank">
+  <a href="https://www.linkedin.com/in/samara-parcero-75940b268/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
 </div>
